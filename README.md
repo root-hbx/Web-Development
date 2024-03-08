@@ -4,4 +4,4 @@
 
 - If you are not looking for a systematic study of web development but are interested in adding it to your skill set, then this course is highly suitable for you！
 
-- You can learn more on [MIT_web_lab_2024](https://weblab.mit.edu/resources/)
+- You can learn more details on [MIT_web_lab_2024](https://weblab.mit.edu/resources/)

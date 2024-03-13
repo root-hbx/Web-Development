@@ -7,6 +7,6 @@
 - You can learn more details on [MIT_web_lab_2024](https://weblab.mit.edu/resources/)
 
 ## Outline
-- git
-- html/css
+- Git
+- HTML / CSS
 - Javascript

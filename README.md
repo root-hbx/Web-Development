@@ -11,4 +11,3 @@
 - HTML / CSS
 - Javascript
 - .NET
-- 

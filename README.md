@@ -1,5 +1,5 @@
 # Web_Lab
-## Some Useful Tools concerning front-end stack
+## 1. Some Useful Tools concerning front-end stack
 - [Javascript](https://www.javascript.com/learn/strings)
 - [React](https://react.dev/)
 - [Vue.js](https://cn.vuejs.org/)
@@ -9,7 +9,7 @@
 - [React vs. Vue](https://radixweb.com/blog/react-vs-vue)
 
 
-## MIT Web Development Crash Course
+## 2. MIT Web Development Crash Course
 ### Introduction
 - To master the design, construction, beautification, interaction, and other core aspects of building a website from scratch, covering the majority of the front-end and back-end technologies in web development.
 

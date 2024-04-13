@@ -1,4 +1,6 @@
-# Web_Lab
+# Web-Development
+> Web-Development contains materials of Network front-end Stack and notes of MIT Web-Design Course
+
 ## 1. Some Useful Tools concerning front-end stack
 - [Javascript](https://www.javascript.com/learn/strings)
 - [React](https://react.dev/)
